@@ -1,0 +1,57 @@
+Settore;Id. Impianto;Indirizzo;Tipo di Impianto; Potenza [kW] ;Superficie [mq];Energia Elettrica Prodotta [kWh/anno];Energia Termica Prodotta [kWh/anno]
+Municipale;IM_0017951;Via Serino 30;Fotovoltaico;1,8;14;1.838;
+Municipale;;Via Pavese;Fotovoltaico;13;207;12.500;
+Municipale;IM_814282;Via Giulio Pastore 62;Fotovoltaico;2,1;21;2.174;
+Municipale;IM_0814291;Via Giulio Pastore 74;Fotovoltaico;2,1;21;2.174;
+Municipale;IM_0829368;Via Giulio Pastore 144;Fotovoltaico;2,1;21;2.174;
+Municipale;IM_0829369;Via Giulio Pastore 156;Fotovoltaico;2,1;21;2.174;
+Municipale;IM_0118668;loc. Monte Contessa v. Rollino 92;Fotovoltaico;5;86;20.412;
+Municipale;IM_0376098;Via Pra' 42 B;Fotovoltaico;19,5;309;20.423;
+Municipale;IM_0376116;Via Pra' 118;Fotovoltaico;19,5;309;20.423;
+Municipale;IM_0722705;q.e. IP p.zza Raggi ;Fotovoltaico;13,6;136;14.322;
+Municipale;IM_0622862;Piazza dell'Olmo;Fotovoltaico;7,5;75;7.875;
+Municipale;IM_0397879;Via Brocchi 18 D ;Fotovoltaico;7,5;60;7.875;
+Municipale;IM_0364293;Via Cornigliano 9;Fotovoltaico;20;160;20.979;
+Municipale;IM_0609076;Via Certosa 16;Fotovoltaico;19,7;335;26.494;
+Municipale;IM_0609517;Via Mario Boeddu 9;Fotovoltaico;19,7;142;26.494;
+Municipale;IM_0701685;P.zza Durazzo Pallavicini 6;Fotovoltaico;20;200;21.000;
+Municipale;IM_0622878;Via Coni Zugna 54;Fotovoltaico;19;190;19.950;
+Municipale;IM_0364314;Piazza del Monastero 6;Fotovoltaico;1,6;13;1.691;
+Municipale;IM_S07SSMB;Via Nicolo' D'Aste 8A  ;Fotovoltaico;19,4;156;20.412;
+Municipale;IM_S07CCDV;Via Buranello 1;Fotovoltaico;19,4;156;20.412;
+Municipale;IM_0038531;Via C. Augusto Vecchi 11;Fotovoltaico;19,8;n/d;20.790;
+Municipale;IM_0305021;Via Calamandrei 57;Fotovoltaico;19,8;159;25.148;
+Municipale;IM_0609514;C.so Italia 2;Fotovoltaico;19,3;193;26.494;
+Municipale;IM_0389689;Via del Peralto 6;Fotovoltaico;5,1;51;5.313;
+Municipale;IM_0058340;Via Pegli 45;Fotovoltaico;13,1;277;13.713;
+Municipale;IM_0305016;Via Giulia De Vincenzi 26;Fotovoltaico;20;160;21.937;
+Municipale;IM_0609516;Via San Felice 19;Fotovoltaico;20;200;21.000;
+Municipale;IM_0609513;Salita Superiore Noce 78;Fotovoltaico;19,3;193;26.494;
+Municipale;IM_0716396;Corso G. Galilei 7;Fotovoltaico;20;200;21.000;
+Municipale;;Calata Andalo' di Negro 1;Fotovoltaico;20;320;21.000;
+Municipale;IM_0305007;Viale C. Bracelli 57;Fotovoltaico;1,5;12;1.575;
+Municipale;IM_0623483;Salita Costa dei Ratti 6a;Fotovoltaico;12;120;12.600;
+Municipale;IM_0609515;Via Pissapaola 48;Fotovoltaico;5,6;98;7.244;
+Municipale;IM_0794739;Piazza delle Erbe;Fotovoltaico;9,5;n/d;9.975;
+Municipale;IM_0378594;Via Nicolo' D'Aste 8A  ;Fotovoltaico;5,3;42;5.513;
+Municipale;IM_0609518;Via Calamandrei 57a;Fotovoltaico;19,7;158;25.034;
+Municipale;;Via della Benedicta 14;Fotovoltaico;10,6;106;11.109;
+Municipale;;Corso Mentana 27;Fotovoltaico;1,5;12;1.575;
+Municipale;;Via C. Battisti 6;Fotovoltaico;20;200;21.000;
+Municipale;;Via Monte Zovetto 7;Fotovoltaico;20;200;21.000;
+Municipale;;Via Lago Figoi;Fotovoltaico;171;2572;179.550;
+Municipale;;Via Cechov;Solare Termico;;20;;19.060
+Municipale;;Via Pra' 42B;Solare Termico;;39;;37.167
+Municipale;;Piazza Suppini;Solare Termico;;56;;53.368
+Municipale;;Via Maritano;Solare Termico;;39;;37.167
+Municipale;;Multedo;Solare Termico;;156;;148.668
+Municipale;;Piazzale Guerra;Solare Termico;;39;;37.167
+Municipale;;Via Coni Zugna;Solare Termico;;104;;99.112
+Municipale;;Viale G.B. d'Abertis;Solare Termico;;104;;99.112
+Municipale;;Via Eridania;Solare Termico;;104;;99.112
+Municipale;;Via Borzoli;Solare Termico;;108;;102.924
+Municipale;;loc. Monte Contessa v. Rollino;Solare Termico;;39;;37.167
+Municipale;;Via chiusone;Solare Termico;;12;;11.436
+Municipale;;Piazza dell'Olmo;Solar Cooling;;103;;114.948
+Municipale;;Via Brocchi 18 D;Solare Termico;;16;;15.248
+Municipale;;Via Pra' 118;Solare Termico;;84;;80.052
